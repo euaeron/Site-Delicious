@@ -1,0 +1,78 @@
+html{
+    height: 100%;
+}
+
+header {
+    height: 119px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.508);
+    padding-top: 14px;
+    padding-bottom: 14px;
+    text-align: center;
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.816);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+body {
+    background-color:  #3d3d3d;
+    background-image: url(imagens/restaurante.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: white;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+footer p {
+    font-size: 10px;
+}
+
+.maps {
+    padding-bottom: 100px;
+}
